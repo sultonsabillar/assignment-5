@@ -1,4 +1,4 @@
-                                                   import { IoLogoJavascript } from "react-icons/io5";
+import { IoLogoJavascript } from "react-icons/io5";
 import { FaReact, FaNode, FaDocker } from "react-icons/fa"; 
 import { SiGo, SiTypescript, SiPostgresql, SiExpress } from "react-icons/si";
 

@@ -25,23 +25,20 @@ export default function Home() {
           </div>
           <div className="mb-6 text-base lg:text-lg text-gray-700 mx-10">
             <p>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus
-              malesuada nisi tellus, non imperdiet nisi tempor at. Lorem ipsum
-              dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-              incididunt ut labore et dolore.
+            React Native Developer adept at leading cross-functional teams to create impactful mobile apps and websites across diverse sectors, including banking, automotive, finance, edutech & transportation. Proficient in React Native, ReactJS, NextJS, TypeScript, and Redux Toolkit for Frontend stack and Nodejs, Sequelize, Expressjs, Nestjs, and Postgres for Backend stack.
             </p>
           </div>
           <div className="flex space-x-4">
-            <a href="/">
+            <a href="https://github.com/sultonsabillar">
               <FaGithubSquare className="h-10 w-10" alt="Github icon" />
             </a>
-            <a href="/">
+            <a href="https://www.facebook.com/login/">
               <FaFacebookSquare className="h-10 w-10" alt="Facebook icon" />
             </a>
-            <a href="/">
+            <a href="https://www.linkedin.com/in/sultonsabillar">
               <FaLinkedin className="h-10 w-10" alt="Linkedin icon" />
             </a>
-            <a href="/">
+            <a href="https://www.instagram.com/">
               <FaInstagram className="h-10 w-10" alt="Instagram icon" />
             </a>
           </div>

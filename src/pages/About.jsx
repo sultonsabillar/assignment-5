@@ -8,13 +8,7 @@ export default function About() {
         </div>
         <div className="lg:w-1/2 mx-10 text-justify lg:text-left">
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-            eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim
-            ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-            aliquip ex ea commodo consequat. Duis aute irure dolor in
-            reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
-            pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-            culpa qui officia deserunt mollit anim id est laborum
+          React Native Developer adept at leading cross-functional teams to create impactful mobile apps and websites across diverse sectors, including banking, automotive, finance, edutech & transportation. Proficient in React Native, ReactJS, NextJS, TypeScript, and Redux Toolkit for Frontend stack and Nodejs, Sequelize, Expressjs, Nestjs, and Postgres for Backend stack. Proven history of successful project delivery, code review, and deployment. Instructional background as a Fullstack JavaScript Instructor. Freelance work with prestigious companies showcases adaptability and commitment to quality.
           </p>
         </div>
       </div>
